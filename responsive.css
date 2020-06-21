@@ -29,6 +29,7 @@
     content img {
         width: 300px;
         display: center;
+        float:left;
     }
     aside {
         float: right;
@@ -43,4 +44,5 @@
         width: 100px;
         display: center;
         padding-left: 0;
+        float: right;
     }
