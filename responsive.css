@@ -27,22 +27,24 @@
         width: 400px;
     }
     content img {
-        width: 300px;
+        width: 200px;
         display: center;
         float:left;
     }
     aside {
         float: right;
         width:20%;
+        .profile img {
+        width: 50px;
+        display: center;
+        padding-left: 0;
+        float: right;
+    }
+
     }
     footer {
         text-align: center;
         Color: white;
     }
 
-    .profile img {
-        width: 100px;
-        display: center;
-        padding-left: 0;
-        float: right;
-    }
+    
