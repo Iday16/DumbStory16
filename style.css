@@ -118,6 +118,11 @@ article {
     margin-top:10px;
 }
 
+.card img {
+    float: left;
+    width: 75%;
+}
+
 .profile header {
     padding-top: 50px;
     padding-bottom: 50px;
@@ -128,7 +133,7 @@ article {
 
 
 .profile header img {
-    width: 250px;
+    width: 10%;
     padding: 0px;
     margin-top: 5px;
     margin-bottom: 7px;
@@ -189,4 +194,3 @@ footer {
 .information.data p {
     float: left;
 }
-
