@@ -68,7 +68,7 @@ header {
 }
 
 main {
-    width: 1170px;
+    width: 100%;
     padding: 10px;
     border: 10px solid gray;
     margin: 0 auto;
@@ -88,7 +88,7 @@ aside {
     padding-left: 20px;
 }
 
-@media screen and (max-width:1170px){
+@media screen (max-width:1170px){
     #content,
     aside{
         width: 100%;
