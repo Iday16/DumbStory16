@@ -2,45 +2,43 @@
     content {
         font-size: 32px;
         width: 700px;
-    }
-    content img {
+        img {
         width: 500px;
         float: left;
+        }
     }
     aside {
         float: right;
         width : 200px;
-    }
-    footer {
-        text-align: center;
-    }
-}
-    .profile img {
+        img {
         width: 100px%;
         float: right;
         padding-left: 0;
+        }
+    }
+    footer {
+        text-align: center;
     }
 
 @media (max-width:670px){
     content {
         font-size: 24px;
         width: 400px;
-    }
-    content img {
+        img {
         width: 25%;
         display: center;
         float:left;
+        }
     }
     aside {
         float: right;
         width:20%;
-        .profile img {
+        img {
         width: 10%;
         display: center;
         padding-left: 0;
         float: right;
-    }
-
+        }
     }
     footer {
         text-align: center;
