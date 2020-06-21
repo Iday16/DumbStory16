@@ -10,6 +10,12 @@
         text-align: center;
     }
 }
+    .card img {
+        width: 50%;
+    }
+    .profile img {
+        width: 7%;
+    }
 
 @media (max-width:670px){
     content {
@@ -24,3 +30,10 @@
         Color: white;
     }
 }
+    .card img {
+        width: 30%;
+    }
+
+    .profile img {
+        width: 2%;
+    }
