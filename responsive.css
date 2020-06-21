@@ -27,7 +27,7 @@
         width: 400px;
     }
     content img {
-        width: 100px;
+        width: 25%;
         display: center;
         float:left;
     }
@@ -35,7 +35,7 @@
         float: right;
         width:20%;
         .profile img {
-        width: 20px;
+        width: 10%;
         display: center;
         padding-left: 0;
         float: right;
