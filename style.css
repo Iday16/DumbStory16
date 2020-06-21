@@ -121,6 +121,7 @@ article {
 .card img {
     float: left;
     width: 75%;
+    margin: 0 auto;
 }
 
 .profile header {
@@ -133,11 +134,8 @@ article {
 
 
 .profile header img {
-    width: 10%;
-    padding: 0px;
-    margin-top: 5px;
-    margin-bottom: 7px;
-    float: right;
+    width: 25%;
+    margin: 0 auto;
 }
 
 
